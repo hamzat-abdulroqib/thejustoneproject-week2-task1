@@ -1,0 +1,24 @@
+.container{
+	text-align: center;
+}
+
+h1{
+	margin-bottom: 0;
+	padding-top: 0;
+}
+p a{
+	margin-top: 0;
+	padding-top: 0;
+}
+
+a{
+	text-decoration: none;
+}
+.btn>a{
+	color: white;
+}
+.btn{
+	background-color: purple;
+	border-radius: 10px;
+	padding: 5px 15px;
+}
